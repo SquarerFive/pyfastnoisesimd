@@ -1,5 +1,6 @@
 PyFastNoiseSIMD
 ===============
+![Python package](https://github.com/SquarerFive/pyfastnoisesimd/workflows/Python%20package/badge.svg)
 
 PyFastNoiseSIMD is a wrapper around Jordan Peck's synthetic noise library 
 https://github.com/Auburns/FastNoise-SIMD which has been 
